@@ -14,8 +14,8 @@ Andmejälgija on [MIT litsentsiga](LICENSE.txt) vabatarkvara.
 
 #### EN
 
-Personal Data Monitor, Andmejälgija in Estonian, is a set of 4 microservice-style applications that, when combined with each other and attached to X-Road can offer the citizen the comprehensive view of how his or her personal data has been used by the government.
+Personal Data Usage Monitor (Andmejälgija in Estonian) is a set of 4 microservice-style applications that, when combined with each other and attached to X-Road can offer the citizen the comprehensive view of how his or her personal data has been used by the government.
 
 [A brief architectural overview](https://github.com/e-gov/AJ/blob/master/preliminary/Overview.md).
 
-Personal Data Usage Monitor software is licenced with MIT licence.
+Personal Data Usage Monitor software is licensed with MIT license.
